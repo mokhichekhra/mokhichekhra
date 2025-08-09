@@ -12,6 +12,8 @@ I’m Mokhichekhra Makhmudova, a Business Informatics student passionate about d
 
 🧠 Enthusiastic about applying analytical thinking to solve business challenges
 
+
+
 🛠️ Technologies & Tools
 
 Languages: English, Russian, Uzbek
@@ -24,6 +26,8 @@ Other Skills: Translation, Digital Marketing fundamentals, Team Collaboration
 
 Platforms: Git, GitHub, LinkedIn
 
+
+
 📈 Current Focus
 
 Strengthening data analysis and visualization skills
@@ -33,6 +37,8 @@ Building small-scale academic and personal projects
 Learning to integrate business knowledge with technical tools
 
 Exploring opportunities in business analysis, data analytics, and communications
+
+
 
 💡 Thanks for visiting my GitHub profile! 🚀
 Feel free to check my projects (some are in progress) or connect with me on [LinkedIn](https://www.linkedin.com/in/mokhichekhramakhmudova/) or on [Instagram](https://www.instagram.com/curious_mokhichekhra).
